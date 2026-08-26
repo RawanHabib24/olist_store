@@ -1,0 +1,1 @@
+CREATE DATABASE Olist_Store;
