@@ -1,8 +1,3 @@
-/*base_cost = 5.0
-cost_per_km = 0.01
-cost_per_kg = 1.0
-*/
-
 --suppose the year is 2019
 --customers :
 ------------------------------------------------------
